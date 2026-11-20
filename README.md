@@ -1,16 +1,13 @@
-## Hi there 👋
+## hey, i'm unpettyie 👋
 
-<!--
-**unpettyie/unpettyie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Philippines.
 
-Here are some ideas to get you started:
+- rewrites it once, then leaves it alone
+- reading docs more than books lately
+- happy to pair on open-source stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unpettyie&layout=compact&langs_count=8&hide_border=true&theme=blue-green" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=unpettyie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=blue-green" alt="unpettyie GitHub stats" />
+
+<img src="https://img.shields.io/badge/Linux-ff7b72?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Terraform-ff7b72?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Bash-ff7b72?style=for-the-badge&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Docker-ff7b72?style=for-the-badge&logoColor=white" alt="Docker" />
